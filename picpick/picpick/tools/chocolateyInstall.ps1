@@ -1,0 +1,1 @@
+﻿#Install-VirtualPackage 'picpick.portable' 'picpick.install'
